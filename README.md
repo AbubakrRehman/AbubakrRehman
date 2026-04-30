@@ -15,7 +15,7 @@ I build performant, scalable web applications with a focus on real-time systems,
 ### 🔹 Quick Compile — Online Code Execution Platform
 
 <p align="center">
-  <img src="https://your-gif-link-here.gif" width="90%" />
+  <img src="https://github.com/AbubakrRehman/AbubakrRehman/blob/main/Animation4.gif" width="90%" />
 </p>
 
 **PostgreSQL • Express • React • Node.js**
