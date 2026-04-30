@@ -10,7 +10,7 @@ I build performant, scalable web applications with a focus on real-time systems,
 • <a href="mailto:abubakr.rehman91@gmail.com">Email</a>
 </p>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔹 Quick Compile — Online Code Execution Platform
 
@@ -50,7 +50,7 @@ I build performant, scalable web applications with a focus on real-time systems,
 
 <br/>
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 **Core**  
 React • Redux • TypeScript • JavaScript  
@@ -64,7 +64,7 @@ Git • Linux • Postman
 
 <br/>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbubakrRehman&show_icons=true" height="150"/>
@@ -73,7 +73,7 @@ Git • Linux • Postman
 
 <br/>
 
-## ⚡ Strengths
+# ⚡ Strengths
 
 - Strong understanding of **JavaScript internals** (event loop, async flows, concurrency)  
 - Experience building **real-time and interactive systems**  
@@ -81,7 +81,7 @@ Git • Linux • Postman
 
 <br/>
 
-## 📌 Current Focus
+# 📌 Current Focus
 
 - System Design fundamentals  
 - Scalable backend architecture  
