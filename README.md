@@ -6,9 +6,8 @@ I build scalable, production-ready web applications with a strong focus on perfo
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/abubakar01">LinkedIn</a> • 
-<a href="mailto:abubakr.rehman91@gmail.com">Email</a> • 
-<a href="https://github.com/AbubakrRehman">GitHub</a>
+  • <a href="https://linkedin.com/in/abubakar01">LinkedIn</a>   
+  • <a href="mailto:abubakr.rehman91@gmail.com">Email</a>
 </p>
 
 ---
