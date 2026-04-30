@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbubakrRehman?tab=repositories](https://github.com/AbubakrRehman?tab=repositories)
 
-- 💬 Ask me about **MERN Stack,Python Scripts**
+- 💬 Ask me about **MERN Stack, TypeScript**
 
 - 📫 How to reach me **abubakr.rehman91@gmail.com**
 
