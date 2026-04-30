@@ -10,8 +10,6 @@ I build performant, scalable web applications with a focus on real-time systems,
 • <a href="mailto:abubakr.rehman91@gmail.com">Email</a>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 Quick Compile — Online Code Execution Platform
@@ -30,7 +28,8 @@ I build performant, scalable web applications with a focus on real-time systems,
 🔗 [Live Demo](https://your-live-demo-link.com)  
 📂 [Frontend Repository](https://github.com/AbubakrRehman/code_editor_frontend) • [Backend Repository](https://github.com/AbubakrRehman/code_editor_backend)
 
----
+<br/>
+
 ### 🔹 DSA Window — DSA Progress Tracker
 
 <p align="center">
@@ -49,7 +48,7 @@ I build performant, scalable web applications with a focus on real-time systems,
 🔗 [Live Demo](https://your-live-demo-link.com)  
 📂 [Frontend Repository](https://github.com/AbubakrRehman/dsa_window_frontend) • [Backend Repository](https://github.com/AbubakrRehman/dsa_window_backend)
 
----
+<br/>
 
 ## 🧠 Tech Stack
 
@@ -63,7 +62,7 @@ HTML • CSS • SCSS • Bootstrap
 **Tools**  
 Git • Linux • Postman  
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -72,7 +71,7 @@ Git • Linux • Postman
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbubakrRehman" height="150"/>
 </p>
 
----
+<br/>
 
 ## ⚡ Strengths
 
@@ -80,7 +79,7 @@ Git • Linux • Postman
 - Experience building **real-time and interactive systems**  
 - Focus on **clean architecture and production-ready applications**  
 
----
+<br/>
 
 ## 📌 Current Focus
 
