@@ -27,7 +27,8 @@ I build performant, scalable web applications with a focus on real-time systems,
 - Designed backend services to **handle and process multi-language execution requests efficiently**  
 - Enabled **instant code execution without local setup**, improving accessibility and ease of use  
 
-🔗 [Live Demo](https://your-live-demo-link.com) • [Repository](https://github.com/AbubakrRehman)
+🔗 [Live Demo](https://your-live-demo-link.com)  
+📂 [Frontend Repository](https://github.com/AbubakrRehman/code_editor_frontend) • [Backend Repository](https://github.com/AbubakrRehman/code_editor_backend)
 
 ---
 ### 🔹 DSA Window — DSA Progress Tracker
@@ -45,7 +46,8 @@ I build performant, scalable web applications with a focus on real-time systems,
 - Developed an **admin panel** to manage topics and questions dynamically  
 - Structured backend using **RESTful APIs and normalized database design**  
 
-🔗 [Live Demo](https://your-live-demo-link.com) • [Repository](https://github.com/AbubakrRehman/dsa_window)
+🔗 [Live Demo](https://your-live-demo-link.com)  
+📂 [Frontend Repository](https://github.com/AbubakrRehman/dsa_window_frontend) • [Backend Repository](https://github.com/AbubakrRehman/dsa_window_backend)
 
 ---
 
