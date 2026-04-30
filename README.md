@@ -2,58 +2,48 @@
 <h3 align="center">Frontend Engineer • MERN Stack • TypeScript</h3>
 
 <p align="center">
-I build scalable, production-ready web applications with a strong focus on performance, real-time systems, and clean architecture.
+I build performant, scalable web applications with a focus on real-time systems, efficient state management, and clean, maintainable architecture.
 </p>
 
 <p align="center">
-  • <a href="https://linkedin.com/in/abubakar01">LinkedIn</a>   
-  • <a href="mailto:abubakr.rehman91@gmail.com">Email</a>
+• <a href="https://linkedin.com/in/abubakar01">LinkedIn</a> 
+• <a href="mailto:abubakr.rehman91@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Real-Time Collaborative Code Editor
+### 🔹 Quick Compile — Online Code Execution Platform
 
 <p align="center">
   <img src="https://your-gif-link-here.gif" width="90%" />
 </p>
 
-**React • Node.js • Socket.IO**
+**PostgreSQL • Express • React • Node.js**
 
-- Built a **real-time collaborative editor** with multi-user synchronization  
-- Implemented **WebSocket-based state management** for low-latency updates  
-- Designed **room-based architecture** for scalable collaboration  
+- Built a browser-based platform to **write, compile, and execute code** across multiple languages (Java, JavaScript, C, C++)  
+- Integrated an advanced in-browser editor with **syntax highlighting, auto-completion, and a developer-grade coding experience**  
+- Designed backend services to **handle and process multi-language execution requests efficiently**  
+- Enabled **instant code execution without local setup**, improving accessibility and ease of use  
 
 🔗 [Live Demo](https://your-live-demo-link.com) • [Repository](https://github.com/AbubakrRehman)
 
 ---
-
-### 🔹 Production-Ready MERN Application
-
-<p align="center">
-  <img src="https://your-gif-link-here.gif" width="90%" />
-</p>
-
-**React • Express • MongoDB • JWT**
-
-- Developed a full-stack app with **secure authentication & route protection**  
-- Structured backend with **modular, scalable architecture**  
-- Implemented **API abstraction and error handling patterns**  
-
-🔗 [Live Demo](https://your-live-demo-link.com) • [Repository](https://github.com/AbubakrRehman)
-
----
-
-### 🔹 DSA Window (Sliding Window Platform)
+### 🔹 DSA Window — DSA Progress Tracker
 
 <p align="center">
-  <img src="https://your-gif-link-here.gif" width="90%" />
+  <img src="https://github.com/AbubakrRehman/AbubakrRehman/blob/main/Animation3.gif" width="90%" />
 </p>
 
-- Built a platform for practicing **optimized sliding window algorithms**  
-- Focused on **clean UI and efficient implementations**  
+**PostgreSQL • Express • React • Node.js**
+
+- Built a full-stack **DSA progress tracking platform** around the curated **DSA 450 problem set**  
+- Implemented **user authentication and personalized progress tracking**  
+- Added features like **bookmarking, completion tracking, and per-question notes**  
+- Designed advanced **search and filtering** based on status and keywords  
+- Developed an **admin panel** to manage topics and questions dynamically  
+- Structured backend using **RESTful APIs and normalized database design**  
 
 🔗 [Live Demo](https://your-live-demo-link.com) • [Repository](https://github.com/AbubakrRehman/dsa_window)
 
@@ -66,7 +56,7 @@ React • Redux • TypeScript • JavaScript
 Node.js • Express • PostgreSQL  
 
 **Frontend**  
-HTML • CSS • Sass • Bootstrap  
+HTML • CSS • SCSS • Bootstrap  
 
 **Tools**  
 Git • Linux • Postman  
@@ -84,9 +74,9 @@ Git • Linux • Postman
 
 ## ⚡ Strengths
 
-- Strong grasp of **JavaScript internals** (event loop, async flows, concurrency)  
+- Strong understanding of **JavaScript internals** (event loop, async flows, concurrency)  
 - Experience building **real-time and interactive systems**  
-- Emphasis on **clean architecture and production-ready code**  
+- Focus on **clean architecture and production-ready applications**  
 
 ---
 
