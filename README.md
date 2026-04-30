@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [dsa_window](https://github.com/AbubakrRehman/dsa_window.git)
 
-- 🌱 I’m currently learning **Mongoose and React Error Boundaries**
+- 🌱 I’m currently learning **Databse Model and Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbubakrRehman?tab=repositories](https://github.com/AbubakrRehman?tab=repositories)
 
